@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'poppins',sans-serif;
+    overflow: hidden;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+    background-color: black;
+}
+.center{
+    color: white;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+.btn{
+    padding: 20px;
+    border-radius: 8px;
+    margin: 0px 3px;
+    cursor: pointer;
+    width: 55px;
+}
+.container{
+    /* justify-content: center; */
+    align-items: center;
+}
+.rows{
+    margin: 8px 0;
+}
+.input{
+    font-size: 18px;
+    padding: 10px 12px;
+    margin: 0;
+    border: 3px solid yellow;
+    border-radius: 5px;
+}

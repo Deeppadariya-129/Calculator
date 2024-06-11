@@ -1,0 +1,15 @@
+.center{
+    text-align: center;
+}
+.bg-color{
+    background-color: black;
+}
+.mx-auto{
+    margin: auto;
+}
+.flex{
+    display: flex;
+}
+.flex-di{
+    flex-direction: column;
+}
